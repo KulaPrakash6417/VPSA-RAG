@@ -7,7 +7,7 @@
 ![LLM](https://img.shields.io/badge/LLM-Llama%203-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-**VPSA-RAG** (Voice-Powered Sentiment-Aware AI RAG Chatbot) is an advanced AI system designed to process voice queries, analyze sentiment, retrieve relevant information, and generate responses with an appropriate tone. By integrating speech recognition, sentiment analysis, retrieval-augmented generation (RAG), and text-to-speech (TTS), VOXSA-RAG provides a conversational AI experience that is both contextually aware and emotionally intelligent.
+**VPSA-RAG** (Voice-Powered Sentiment-Aware AI RAG Chatbot) is an advanced AI system designed to process voice queries, analyze sentiment, retrieve relevant information, and generate responses with an appropriate tone. By integrating speech recognition, sentiment analysis, retrieval-augmented generation (RAG), and text-to-speech (TTS), VPSA-RAG provides a conversational AI experience that is both contextually aware and emotionally intelligent.
 
 ---
 ## 🔑 **Key Features**
