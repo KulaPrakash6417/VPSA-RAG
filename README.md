@@ -42,8 +42,8 @@
 ### 1️⃣ Clone the Repository
 
 ```commandline
-git clone https://github.com/aneesh-vishwa/VOXSA-RAG.git
-cd VOXSA-RAG
+git clone https://github.com/KulaPrakash6417/VPSA-RAG
+cd VPSA-RAG
 ```
 
 ### 2️⃣ Install FFmpeg (Required for Whisper)
@@ -91,11 +91,11 @@ streamlit run app.py
 
 ---
 ## 🎮 Usage Guide
-#### 1️⃣ Upload a PDF document → VOXSA-RAG processes it for retrieval.
+#### 1️⃣ Upload a PDF document → VPSA-RAG processes it for retrieval.
 #### 2️⃣ Choose a query mode:
 - Upload a WAV file
 - Record a voice query directly
-#### 3️⃣ VOXSA-RAG processes your query:
+#### 3️⃣ VPSA-RAG processes your query:
 - Transcribes speech
 - Analyzes sentiment
 - Retrieves relevant information
