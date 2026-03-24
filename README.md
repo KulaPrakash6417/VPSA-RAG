@@ -10,11 +10,6 @@
 **VOXSA-RAG** (Voice-Powered Sentiment-Aware AI RAG Chatbot) is an advanced AI system designed to process voice queries, analyze sentiment, retrieve relevant information, and generate responses with an appropriate tone. By integrating speech recognition, sentiment analysis, retrieval-augmented generation (RAG), and text-to-speech (TTS), VOXSA-RAG provides a conversational AI experience that is both contextually aware and emotionally intelligent.
 
 ---
-## 📌 **Workflow Diagram**  
-**Architecture of the system**:
-![Workflow](assets/Architecture.png)
-
----
 ## 🔑 **Key Features**
 
 🎙️ **Voice-Activated Query Processing**
